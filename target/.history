@@ -1,0 +1,20 @@
+compile
+update
+run
+compile
+run
+compile
+run
+exit
+compile
+run
+exit
+compile
+run
+exit
+sbt compile
+compile
+run
+exit
+compile
+run
